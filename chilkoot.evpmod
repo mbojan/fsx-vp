@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<evp:modification identifier="AIRLINE CHILKOOT" use_variation="false" variation="0" evpversion="4.0.7.0" minversion="4.0.3.0" fsversion="10.0" xmlns:evp="http://www.editvoicepack.com/EditVoicepack/DataFile/1">
+	<evp:phrase>Chilkoot</evp:phrase>
+	<evp:author />
+	<evp:description />
+	<evp:comment />
+	<evp:voices>
+		<evp:voice name="Voice 0">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AGENT_NAME CHURCHILL" variation="0" start_sample="1973" end_sample="4027" />
+				<evp:sound_segment identifier="AGENT_NAME KUTAHYA" variation="0" start_sample="0" end_sample="1358" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 1">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AGENT_NAME CHURCHILL" variation="0" start_sample="1720" end_sample="3972" />
+				<evp:sound_segment identifier="AGENT_NAME KUTAHYA" variation="0" start_sample="0" end_sample="1710" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 2">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AGENT_NAME CHURCHILL" variation="0" start_sample="1930" end_sample="4579" />
+				<evp:sound_segment identifier="AGENT_NAME KUTAHYA" variation="0" start_sample="0" end_sample="910" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 3">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AGENT_NAME CHURCHILL" variation="0" start_sample="1984" end_sample="4300" />
+				<evp:sound_segment identifier="AGENT_NAME KUTAHYA" variation="0" start_sample="0" end_sample="1855" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 4">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AGENT_NAME CHURCHILL" variation="0" start_sample="2511" end_sample="5248" />
+				<evp:sound_segment identifier="AGENT_NAME KUTAHYA" variation="0" start_sample="0" end_sample="1642" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 5">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AGENT_NAME CHURCHILL" variation="0" start_sample="1766" end_sample="4192" />
+				<evp:sound_segment identifier="AGENT_NAME KUTAHYA" variation="0" start_sample="0" end_sample="1408" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 6">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AGENT_NAME CHURCHILL" variation="0" start_sample="1840" end_sample="4368" />
+				<evp:sound_segment identifier="AGENT_NAME KUTAHYA" variation="0" start_sample="0" end_sample="1265" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 7">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AGENT_NAME CHURCHILL" variation="0" start_sample="2021" end_sample="4671" />
+				<evp:sound_segment identifier="AGENT_NAME KUTAHYA" variation="0" start_sample="0" end_sample="1547" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 8">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AGENT_NAME CHURCHILL" variation="0" start_sample="1993" end_sample="5470" />
+				<evp:sound_segment identifier="AGENT_NAME KUTAHYA" variation="0" start_sample="0" end_sample="1896" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 9">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AGENT_NAME CHURCHILL" variation="0" start_sample="1536" end_sample="3970" />
+				<evp:sound_segment identifier="AGENT_NAME KUTAHYA" variation="0" start_sample="0" end_sample="1742" />
+			</evp:sound_segments>
+		</evp:voice>
+	</evp:voices>
+</evp:modification>

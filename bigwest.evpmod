@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<evp:modification identifier="AIRLINE BIGWEST" use_variation="false" variation="0" evpversion="4.0.7.0" minversion="4.0.3.0" fsversion="10.0" xmlns:evp="http://www.editvoicepack.com/EditVoicepack/DataFile/1">
+	<evp:phrase>Big West</evp:phrase>
+	<evp:author>Michal Bojanowski</evp:author>
+	<evp:description>Callsign for Big West Express airline</evp:description>
+	<evp:comment>Fictional Callsign</evp:comment>
+	<evp:voices>
+		<evp:voice name="Voice 0">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRLINE BIG A" variation="0" start_sample="738" end_sample="2374" />
+				<evp:sound_segment identifier="AIRPORT KEYW" variation="0" start_sample="1855" end_sample="4464" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 1">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRLINE BIG A" variation="0" start_sample="0" end_sample="1873" />
+				<evp:sound_segment identifier="AIRPORT KEYW" variation="0" start_sample="2043" end_sample="5039" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 2">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRLINE BIG A" variation="0" start_sample="0" end_sample="2224" />
+				<evp:sound_segment identifier="AIRPORT KEYW" variation="0" start_sample="1974" end_sample="4500" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 3">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRLINE BIG A" variation="0" start_sample="987" end_sample="2856" />
+				<evp:sound_segment identifier="AIRPORT KEYW" variation="0" start_sample="2393" end_sample="5905" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 4">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRLINE BIG A" variation="0" start_sample="1029" end_sample="2862" />
+				<evp:sound_segment identifier="AIRPORT KEYW" variation="0" start_sample="2235" end_sample="5276" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 5">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRLINE BIG A" variation="0" start_sample="0" end_sample="2490" />
+				<evp:sound_segment identifier="AIRPORT KEYW" variation="0" start_sample="2224" end_sample="5070" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 6">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRLINE BIG A" variation="0" start_sample="0" end_sample="1405" />
+				<evp:sound_segment identifier="AIRPORT KEYW" variation="0" start_sample="2304" end_sample="5440" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 7">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRLINE BIG A" variation="0" start_sample="0" end_sample="1738" />
+				<evp:sound_segment identifier="AIRPORT HECW" variation="0" start_sample="3693" end_sample="6895" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 8">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRLINE BIG A" variation="0" start_sample="0" end_sample="3000" />
+				<evp:sound_segment identifier="AIRPORT HECW" variation="0" start_sample="4888" end_sample="8376" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 9">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRLINE BIG A" variation="0" start_sample="0" end_sample="1463" />
+				<evp:sound_segment identifier="AIRPORT KEYW" variation="0" start_sample="2305" end_sample="5256" />
+			</evp:sound_segments>
+		</evp:voice>
+	</evp:voices>
+</evp:modification>
