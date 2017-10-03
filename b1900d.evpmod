@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <evp:modification identifier="AC_MODEL B1900D" use_variation="false" variation="0" evpversion="4.0.7.0" minversion="4.0.3.0" fsversion="10.0" xmlns:evp="http://www.editvoicepack.com/EditVoicepack/DataFile/1">
-	<evp:phrase>Beech 1900</evp:phrase>
+	<evp:phrase>B1900D</evp:phrase>
 	<evp:author />
 	<evp:description />
 	<evp:comment />
