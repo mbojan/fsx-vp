@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<evp:modification identifier="AIRLINE PRINCEEDWARDAIR" use_variation="false" variation="0" evpversion="4.0.7.0" minversion="4.0.3.0" fsversion="10.0" xmlns:evp="http://www.editvoicepack.com/EditVoicepack/DataFile/1">
+	<evp:phrase>Prince Edward Air</evp:phrase>
+	<evp:author />
+	<evp:description />
+	<evp:comment />
+	<evp:voices>
+		<evp:voice name="Voice 0">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRPORT FVCP" variation="0" start_sample="0" end_sample="3412" />
+				<evp:sound_segment identifier="AIRPORT KEDW" variation="0" start_sample="704" end_sample="4869" />
+				<evp:sound_segment identifier="AIRLINE ACTION AIR" variation="0" start_sample="3627" end_sample="6560" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 1">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRPORT FVCP" variation="0" start_sample="0" end_sample="2881" />
+				<evp:sound_segment identifier="AIRPORT KEDW" variation="0" start_sample="193" end_sample="3340" />
+				<evp:sound_segment identifier="AIRLINE ACTION AIR" variation="0" start_sample="2972" end_sample="5376" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 2">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRPORT FVCP" variation="0" start_sample="0" end_sample="2580" />
+				<evp:sound_segment identifier="AIRPORT KEDW" variation="0" start_sample="0" end_sample="4435" />
+				<evp:sound_segment identifier="AIRLINE ACTION AIR" variation="0" start_sample="4112" end_sample="6112" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 3">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRPORT FVCP" variation="0" start_sample="0" end_sample="3010" />
+				<evp:sound_segment identifier="AIRPORT KEDW" variation="0" start_sample="259" end_sample="4492" />
+				<evp:sound_segment identifier="AIRLINE ACTION AIR" variation="0" start_sample="4251" end_sample="7690" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 4">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRPORT FVCP" variation="0" start_sample="0" end_sample="4318" />
+				<evp:sound_segment identifier="AIRPORT KEDW" variation="0" start_sample="247" end_sample="4290" />
+				<evp:sound_segment identifier="AIRLINE ACTION AIR" variation="0" start_sample="4026" end_sample="6018" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 5">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRPORT FVCP" variation="0" start_sample="0" end_sample="2915" />
+				<evp:sound_segment identifier="AIRPORT KEDW" variation="0" start_sample="223" end_sample="3873" />
+				<evp:sound_segment identifier="AIRLINE ACTION AIR" variation="0" start_sample="4694" end_sample="9152" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 6">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRPORT FVCP" variation="0" start_sample="299" end_sample="3786" />
+				<evp:sound_segment identifier="AIRPORT KEDW" variation="0" start_sample="1120" end_sample="5387" />
+				<evp:sound_segment identifier="AIRLINE AIR ALFA" variation="0" start_sample="0" end_sample="2050" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 7">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRPORT FVCP" variation="0" start_sample="0" end_sample="3249" />
+				<evp:sound_segment identifier="AIRPORT KEDW" variation="0" start_sample="325" end_sample="4546" />
+				<evp:sound_segment identifier="AIRLINE AIR ALFA" variation="0" start_sample="0" end_sample="2954" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 8">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRPORT FVCP" variation="0" start_sample="0" end_sample="4501" />
+				<evp:sound_segment identifier="AIRPORT KEDW" variation="0" start_sample="0" end_sample="4455" />
+				<evp:sound_segment identifier="AIRLINE AIR ALFA" variation="0" start_sample="0" end_sample="3397" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 9">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="AIRPORT FVCP" variation="0" start_sample="0" end_sample="3296" />
+				<evp:sound_segment identifier="AIRPORT KEDW" variation="0" start_sample="0" end_sample="4391" />
+				<evp:sound_segment identifier="AIRLINE AIR BALTIC" variation="0" start_sample="0" end_sample="2023" />
+			</evp:sound_segments>
+		</evp:voice>
+	</evp:voices>
+</evp:modification>
