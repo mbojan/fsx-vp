@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<evp:modification identifier="AC_MODEL B1900D" use_variation="false" variation="0" evpversion="4.0.7.0" minversion="4.0.3.0" fsversion="10.0" xmlns:evp="http://www.editvoicepack.com/EditVoicepack/DataFile/1">
+	<evp:phrase>Beech 1900</evp:phrase>
+	<evp:author />
+	<evp:description />
+	<evp:comment />
+	<evp:voices>
+		<evp:voice name="Voice 0">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="ATC_NAME BEECH" variation="0" start_sample="0" end_sample="1884" />
+				<evp:sound_segment identifier="AC_MODEL B190" variation="0" start_sample="2278" end_sample="10048" />
+				<evp:sound_segment identifier="AGENT_NAME ABERDEEN" variation="0" start_sample="2795" end_sample="4283" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 1">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="ATC_NAME BEECH" variation="0" start_sample="0" end_sample="1503" />
+				<evp:sound_segment identifier="AC_MODEL B190" variation="0" start_sample="2383" end_sample="9984" />
+				<evp:sound_segment identifier="AGENT_NAME ABERDEEN" variation="0" start_sample="3071" end_sample="4295" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 2">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="ATC_NAME BEECH" variation="0" start_sample="0" end_sample="1422" />
+				<evp:sound_segment identifier="AC_MODEL B190" variation="0" start_sample="2520" end_sample="10560" />
+				<evp:sound_segment identifier="AGENT_NAME ABERDEEN" variation="0" start_sample="2696" end_sample="3857" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 3">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="ATC_NAME BEECH" variation="0" start_sample="0" end_sample="2119" />
+				<evp:sound_segment identifier="AC_MODEL B190" variation="0" start_sample="4203" end_sample="13348" />
+				<evp:sound_segment identifier="AGENT_NAME ABERDEEN" variation="0" start_sample="2798" end_sample="4262" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 4">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="ATC_NAME BEECH" variation="0" start_sample="0" end_sample="2077" />
+				<evp:sound_segment identifier="AC_MODEL B190" variation="0" start_sample="2793" end_sample="11705" />
+				<evp:sound_segment identifier="AGENT_NAME ABERDEEN" variation="0" start_sample="2322" end_sample="3857" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 5">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="ATC_NAME BEECH" variation="0" start_sample="0" end_sample="1794" />
+				<evp:sound_segment identifier="AC_MODEL B190" variation="0" start_sample="2332" end_sample="9234" />
+				<evp:sound_segment identifier="AGENT_NAME ABERDEEN" variation="0" start_sample="3005" end_sample="5183" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 6">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="ATC_NAME BEECH" variation="0" start_sample="0" end_sample="1627" />
+				<evp:sound_segment identifier="AC_MODEL B190" variation="0" start_sample="3383" end_sample="10882" />
+				<evp:sound_segment identifier="AGENT_NAME ABERDEEN" variation="0" start_sample="2780" end_sample="3985" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 7">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="ATC_NAME BEECH" variation="0" start_sample="0" end_sample="1666" />
+				<evp:sound_segment identifier="AC_MODEL B190" variation="0" start_sample="2516" end_sample="10545" />
+				<evp:sound_segment identifier="AGENT_NAME ABERDEEN" variation="0" start_sample="3502" end_sample="5333" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 8">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="ATC_NAME BEECH" variation="0" start_sample="0" end_sample="2352" />
+				<evp:sound_segment identifier="AC_MODEL B190" variation="0" start_sample="3013" end_sample="12624" />
+				<evp:sound_segment identifier="AGENT_NAME ABERDEEN" variation="0" start_sample="3240" end_sample="5035" />
+			</evp:sound_segments>
+		</evp:voice>
+		<evp:voice name="Voice 9">
+			<evp:sound_segments>
+				<evp:sound_segment identifier="ATC_NAME BEECH" variation="0" start_sample="0" end_sample="2084" />
+				<evp:sound_segment identifier="AC_MODEL B190" variation="0" start_sample="2775" end_sample="11072" />
+				<evp:sound_segment identifier="AGENT_NAME ABERDEEN" variation="0" start_sample="3028" end_sample="4386" />
+			</evp:sound_segments>
+		</evp:voice>
+	</evp:voices>
+</evp:modification>
